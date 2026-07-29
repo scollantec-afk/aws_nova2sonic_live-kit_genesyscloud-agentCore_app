@@ -1,0 +1,32 @@
+{
+  "ABC123": {
+    "passenger": "Juan Perez",
+    "flight_number": "IB1234",
+    "origin": "Madrid",
+    "destination": "Barcelona",
+    "date": "2026-08-12",
+    "seat": "14C",
+    "cabin": "Economy",
+    "status": "CONFIRMED"
+  },
+  "XYZ789": {
+    "passenger": "Maria Gonzalez",
+    "flight_number": "IB5678",
+    "origin": "Barcelona",
+    "destination": "Paris",
+    "date": "2026-08-15",
+    "seat": "2A",
+    "cabin": "Business",
+    "status": "CHANGED"
+  },
+  "LAT456": {
+    "passenger": "Carlos Rojas",
+    "flight_number": "LA800",
+    "origin": "Santiago",
+    "destination": "Lima",
+    "date": "2026-09-01",
+    "seat": "30F",
+    "cabin": "Economy",
+    "status": "CONFIRMED"
+  }
+}

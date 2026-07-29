@@ -1,0 +1,24 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables de entorno locales
+.env
+.env.*
+
+# Estado y configuracion local de Bedrock AgentCore (contiene datos de la cuenta AWS)
+.bedrock_agentcore/
+.bedrock_agentcore.yaml
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

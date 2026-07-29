@@ -1,0 +1,32 @@
+{
+  "IB1234": {
+    "status": "CONFIRMED",
+    "origin": "Madrid",
+    "destination": "Barcelona",
+    "gate": "B12",
+    "departure": "09:30"
+  },
+  "IB5678": {
+    "status": "DELAYED",
+    "origin": "Barcelona",
+    "destination": "Paris",
+    "gate": "A03",
+    "departure": "14:15"
+  },
+  "LA800": {
+    "status": "BOARDING",
+    "origin": "Santiago",
+    "destination": "Lima",
+    "gate": "C21",
+    "departure": "22:40",
+    "terminal": "Internacional"
+  },
+  "LA755": {
+    "status": "CANCELLED",
+    "origin": "Santiago",
+    "destination": "Buenos Aires",
+    "gate": "-",
+    "departure": "07:05",
+    "reason": "condiciones meteorologicas"
+  }
+}
